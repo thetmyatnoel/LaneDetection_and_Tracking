@@ -1,4 +1,10 @@
 # Real-time Lane Detection and Tracking
+
+
+
+https://github.com/thetmyatnoel/LaneDetection_and_Tracking/assets/126442096/dc85e74d-a89a-44fb-a3f0-46931f4e0bda
+
+
 ## Overview
 This project is an implementation of a real-time lane detection and tracking system using the OpenCV library. The system is designed to identify and track lane lines in a video stream or from a live camera feed. The main goal of the project is to develop an efficient, reliable, and accurate lane detection and tracking system that can be used in various applications such as Advanced Driver Assistance Systems (ADAS) and autonomous vehicles.
 
