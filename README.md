@@ -32,11 +32,13 @@ When running the script, the output video will be displayed in a window named "L
 The current implementation is designed to work with the provided project1/project_video.mp4 video file. To use the code with a different video or a live camera feed, you may need to adjust the perspective transform parameters, sliding window parameters, and other constants in the code.
 
 For live camera feed, replace the line:
-
-#### cap = cv2.VideoCapture('project1/project_video.mp4')
+``` python 
+cap = cv2.VideoCapture('project1/project_video.mp4')
+```
 with:
-
-#### cap = cv2.VideoCapture(0)
+``` python 
+ cap = cv2.VideoCapture(0)
+ ```
 And make sure your camera is connected and working properly.
 
 ## Acknowledgments
